@@ -10,6 +10,7 @@
 2- update.sh : Cloudformation update stack script.
 3- ourinfraServer.yml : Udagram Project's CloudFormation script.
 4- ourinfraServerParameters.json : Udagram Project's CloudFormation script parameters.
+5- A Diagram for the infrastructure and servers
 ```
 ## Instruction of deploy:
 Just run;
